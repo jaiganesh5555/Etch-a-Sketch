@@ -1,0 +1,17 @@
+.column {
+  border-style: solid; /* Add this line to specify the border style */
+  border-color: black;
+  border-width: 0.15px;
+  color: black;
+}
+
+body {
+  display:flex;
+  justify-content:space-around;
+}
+.row {
+  display:flex;
+  justify-content: space-evenly;
+
+}
+
